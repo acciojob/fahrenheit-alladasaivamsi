@@ -3,4 +3,4 @@ function toFahrenheit(value) {
 		return ((value * 9)/5) + 32;
 };
 
-toFahrenheit(0);
+toFahrenheit();
